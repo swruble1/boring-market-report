@@ -1,7 +1,5 @@
 # Weekly Market Pulse Report Generator
 
-🚀 **[VIEW LIVE DEMO](https://YOUR-USERNAME.github.io/market-report-demo/)**
-
 A professional market report generator with AI-powered content creation, customizable branding, and instant PDF export capabilities.
 
 ## ✨ Key Features
